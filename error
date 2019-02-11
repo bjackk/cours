@@ -1,0 +1,5 @@
+e = error
+if e == error:
+    print(warrning)
+else:
+    print(all is ok)
